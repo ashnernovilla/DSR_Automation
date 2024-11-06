@@ -17,6 +17,7 @@ This project automates the process of generating daily submissions reports. The 
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Scheduled Automation](#scheduled-automation)
+- [Conceptual Diagram](#conceptual-diagram)
 
 
 ## Installation
@@ -52,6 +53,9 @@ To automate the report generation, use a scheduler like cron (Linux) or Task Sch
 2. Open Task Scheduler and create a new task.
 3. Set the "Trigger" to "Daily" at your preferred time.
 4. Set the "Action" to run DSR_Auto.py with your Python interpreter.
+
+## Conceptual Diagram
+![image](https://github.com/user-attachments/assets/cce4cd03-0bee-4080-9363-c2411ab6df7c)
 
 We welcome contributions to enhance functionality, fix bugs, or improve documentation.
 
