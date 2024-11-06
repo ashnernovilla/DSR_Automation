@@ -17,8 +17,7 @@ This project automates the process of generating daily submissions reports. The 
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Scheduled Automation](#scheduled-automation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
