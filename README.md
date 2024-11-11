@@ -24,7 +24,7 @@ This project automates the process of generating daily submissions reports. The 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/daily-submissions-report-automation.git
+   git clone https://github.com/ashnernovilla/daily-submissions-report-automation.git
    cd daily-submissions-report-automation.
 
 2. **Install dependencies**:
